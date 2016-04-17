@@ -9,6 +9,6 @@ To add your website, check the [contributing guide](CONTRIBUTING.md).  To learn 
 
 ### Class of 2017
 
-* Brandon Davis http://redspin.net
+* Brandon Davis ([website](http://redspin.net)) ([github profile](https://github.com/subdavis))
 
 ### Class of 2016
