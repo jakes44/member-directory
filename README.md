@@ -5,6 +5,8 @@ To add your website, check the [contributing guide](CONTRIBUTING.md).  To learn 
 
 ### Class of 2019
 
+* Jesse Akes ([website](http://jesseakes.me)) ([github profile](https://github.com/jakes44))
+
 ### Class of 2018
 
 ### Class of 2017
